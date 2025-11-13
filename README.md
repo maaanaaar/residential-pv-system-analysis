@@ -49,7 +49,7 @@ The project involves:
 | Performance Ratio | 78% | Overall system efficiency |
 | CO₂ Savings | 3.2 tons/year | Estimated environmental impact |
 
-*(Values are examples — replace them with your actual simulation results.)*
+
 
 ---
 
